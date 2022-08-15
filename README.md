@@ -6,4 +6,4 @@ dispBuff (optional; defaults to false): A boolean that enables displaying the bu
 dflt (optional): A function that runs on every keypress (usually a screen refresh)
 quitBuffer (optional; defaults to '03' (ctrl+c)): A buffer string that will leave raw control. Careful messing with this!
 
-This library is intended for my own personal use. It and its functionality may change as my needs change and as I become a better programmer
+This library is intended for my own personal use. It and its functionality may change as my needs change and as I become a better programmer. If anyone has any ideas on how to improve this, I'd be curious!
